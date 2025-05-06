@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a5511ef-3fce-4364-81c0-794c3a7c379f" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tkieuvt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tkieuvt/Railway-ticket-booking.git",
+    "accountId": "9e625f7a-25cc-43a8-8887-26cff3115f2d"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2val6Cp5rbeTGQiUElYnY0yq0ls" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.prj-KTPM [clean].executor": "Run",
+    "Maven.prj-KTPM [install].executor": "Run",
+    "Maven.prj-KTPM [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
+    "Maven.prj-KTPM [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BookTicketTest.TC14.executor": "Run",
+    "TestNG.BookTicketTest.TC15.executor": "Run",
+    "TestNG.BookTicketTest.TC16.executor": "Run",
+    "TestNG.LoginTest.TC01.executor": "Run",
+    "TestNG.LoginTest.TC02.executor": "Run",
+    "TestNG.LoginTest.TC03.executor": "Run",
+    "TestNG.LoginTest.TC04.executor": "Run",
+    "TestNG.LoginTest.TC05.executor": "Run",
+    "TestNG.LoginTest.TC06.executor": "Run",
+    "TestNG.LoginTest.TC07.executor": "Run",
+    "TestNG.LoginTest.TC09.executor": "Run",
+    "TestNG.LoginTest.TC10.executor": "Run",
+    "TestNG.LoginTest.TC11.executor": "Run",
+    "TestNG.LoginTest.TC14.executor": "Run",
+    "TestNG.MyTicketTest.TC16.executor": "Run",
+    "TestNG.RegisterTest.TC07.executor": "Run",
+    "TestNG.RegisterTest.TC10.executor": "Run",
+    "TestNG.RegisterTest.TC11.executor": "Run",
+    "TestNG.Unnamed.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/prj-KTPM",
+    "onboarding.tips.debug.path": "D:/java/prj-KTPM/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\prj-KTPM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MyTicketTest.TC16">
+    <configuration name="BookTicketTest.TC14" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="prj-KTPM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.BookTicketTest" />
+      <option name="METHOD_NAME" value="TC14" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTicketTest.TC15" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="prj-KTPM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.BookTicketTest" />
+      <option name="METHOD_NAME" value="TC15" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTicketTest.TC16" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="prj-KTPM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.BookTicketTest" />
+      <option name="METHOD_NAME" value="TC16" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTicketTest.TC16" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="prj-KTPM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.MyTicketTest" />
+      <option name="METHOD_NAME" value="TC16" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.TC11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="prj-KTPM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.RegisterTest" />
+      <option name="METHOD_NAME" value="TC11" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true" printAsyncStackTraceForExceptions="false">
+      <module name="prj-KTPM" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.LoginTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="D:\java\prj-KTPM" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.BookTicketTest.TC15" />
+      <item itemvalue="TestNG.BookTicketTest.TC16" />
+      <item itemvalue="TestNG.MyTicketTest.TC16" />
+      <item itemvalue="TestNG.BookTicketTest.TC14" />
+      <item itemvalue="TestNG.RegisterTest.TC11" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyTicketTest.TC16" />
+        <item itemvalue="TestNG.BookTicketTest.TC14" />
+        <item itemvalue="TestNG.BookTicketTest.TC16" />
+        <item itemvalue="TestNG.BookTicketTest.TC15" />
+        <item itemvalue="TestNG.RegisterTest.TC11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a5511ef-3fce-4364-81c0-794c3a7c379f" name="Changes" comment="" />
+      <created>1744390891678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744390891678</updated>
+    </task>
+    <task id="LOCAL-00001" summary="7/5 commit">
+      <option name="closed" value="true" />
+      <created>1746555655128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746555655128</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1746555798824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746555798824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7/5 commit" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/Railway/LoginTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObjects/Railway/GeneralPage.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/Railway/LoginTest.java</url>
+          <line>41</line>
+          <properties class="testcases.Railway.LoginTest" method="TC02">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/Railway/LoginTest.java</url>
+          <line>104</line>
+          <properties class="testcases.Railway.LoginTest" method="TC06">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObjects/Railway/ChangePasswordPage.java</url>
+          <line>22</line>
+          <properties class="pageObjects.Railway.ChangePasswordPage" method="getBtnChangePassword">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/Railway/BookTicketTest.java</url>
+          <line>56</line>
+          <properties class="testcases.Railway.BookTicketTest" method="TC15">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObjects/Railway/BookTicketPage.java</url>
+          <line>47</line>
+          <properties class="pageObjects.Railway.BookTicketPage" method="getLblBookTicketMsg">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
